@@ -1,0 +1,103 @@
+body{
+    background-color: powderblue;
+} 
+
+.cabeza1{
+    display: inline-block;
+    border: 1px;
+    width: auto;
+    margin: auto;
+    text-align: left;
+    padding: 20%, 20%;
+    text-align: justify;
+
+
+}
+
+
+.home_cabecera{
+    margin-top: auto;
+    width: 150%;
+    height: 150%;
+    color: lawngreen;
+    font-size: 150%;
+    padding-top: 5%; /* arriba abajo*/   
+
+}
+.personajes_cabecera{
+    disp
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    padding-left: 25%;
+    padding-top: -8%;
+    color: aqua
+} 
+
+.contacto_cabezera{
+    font-size;
+
+} 
+
+.contacto_cabezera{
+    font-size: 150%;
+}
+
+.encabezado{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./img/anonymous.jpg);
+    background-color: aqua;
+    height: 45vh; /*ALTO */
+    /*width: 175vh; /*ANCHO*/
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    border-color: blue;
+    color:cadetblue;
+}
+
+.moneda{
+    color: yellowgreen;
+}
+
+h3{
+    color: green;
+}
+
+h3{
+    color: brown;
+}
+
+.azul{
+    color: rgb(0, 195, 255);
+}
+
+.home{
+    color: yellow;  
+}
+
+.fondo{
+    background-color: pink;
+}
+
+.contacto{
+    color: springgreen;
+}
+.nosotros{
+    color: purple;
+}
+
+.lorem{
+    color: tomato;
+}
+
+#piepagina{
+    background-color: black;
+    color: aliceblue;
+    height: 100px;
+}

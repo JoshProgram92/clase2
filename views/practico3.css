@@ -1,0 +1,42 @@
+body{
+    background-color: azure;
+}
+
+.paso1{
+    background-color: blueviolet;
+    background-image: linear-gradient(to right, red, yellow, green);
+    height: 15px;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100px; ancho 
+    height: 1px;
+}
+
+.paso2{
+    
+    height: 15px;
+    border: 2px solid #eb0b0b;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100px; ancho 
+    height: 1px;
+}
+
+.paso3{
+    background-color: chartreuse;
+    background-image: linear-gradient(chartreuse, yellow);
+    height: 15px;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100px; ancho 
+    height: 1px;
+}
+
+.paso4{
+        height: 15px;
+    border: 2px solid #1fcbe2;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100px; ancho 
+    height: 1px;
+}
